@@ -53,7 +53,7 @@ const XmlForm = () => {
     compartments: [
       {
         codeId: "",
-        humanReadableId: "",
+        humanReadableId: "COMPARTMENT_1",
         sensorAreaExternalIds: ["", "", "", ""],
       },
     ],
